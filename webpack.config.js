@@ -1,4 +1,3 @@
-
 const HtmlWebpack    = require('html-webpack-plugin')
 const MiniCssExtract = require('mini-css-extract-plugin');
 const CopyPlugin     = require("copy-webpack-plugin");
